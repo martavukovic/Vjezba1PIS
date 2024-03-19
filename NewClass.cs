@@ -8,6 +8,6 @@ namespace Vjezba1PIS
 {
     internal class NewClass
     {
-        int a = 5;
+        int a = 10;
     }
 }
